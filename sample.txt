@@ -1,4 +1,8 @@
 ﻿samsam 
 ブランチsub1からの書き込み
 PC-SLD-003からの書き込み
+<<<<<<< HEAD
 insert text from mac
+=======
+conflict resolved.
+>>>>>>> e1cc317bfc4e78d50ac0ae48e98d2b9d055e5a37
