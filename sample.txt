@@ -1,3 +1,4 @@
-﻿sample kakikomiabc
+﻿samsam 
 ブランチsub1からの書き込み
 PC-SLD-003からの書き込み
+conflict resolved.
