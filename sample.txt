@@ -1,1 +1,2 @@
 sample kakikomi
+ブランチsub1からの書き込み
